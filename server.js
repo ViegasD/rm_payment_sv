@@ -112,5 +112,5 @@ app.post('/generate-pix', async (req, res) => {
 
 // Inicia o servidor
 app.listen(PORT, () => {
-    console.log(`Servidor rodando em http://147.93.15.46:${PORT}`);
+    console.log(`Servidor rodando em https://rcwifi-payment-server.sv1o3q.easypanel.host1:${PORT}`);
 });
